@@ -96,6 +96,12 @@
         "category": "How a website produce sound when keyboard button pressed(javaScript)",
         "image": "Drumkit.png",
         "url": "https://abhi4701.github.io/drumstick/"
+      },
+      {
+        "title": "Netflix-clone",
+        "category": "A Front-end website of Netflix develop using react.js",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-7be07.web.app/"
       }
       
     ]
