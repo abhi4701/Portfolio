@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Abhishek Kumar",
+    "occupation": "Competitive Coder and A Full Stack Developer",
+    "description": "Always Ready To Learn New Things",
+    "image": "Ig_abhi.jpg",
+    "bio": "My name is Abhishek, I'm a Beginner in Full Stack ReactJS Developer. Currently I'm a student of Techno Main Saltlake ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "deshmukabhishek802@gmail.com",
+    "phone": "+91 6375555639",
+    "address": {
+      "street": "Mhohishgot, Krishnapur",
+      "city": "SaltLake , Kolkata",
+      "state": "West bengal",
+      "zip": "700102"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sant8ku",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-kumar-28b634169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_deshmukh_abhi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abhi4701",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Techno Main Saltlake",
+        "degree": "Bachelor in Computer Science and Engineering",
+        "graduated": "July 2022",
+        "description": "Graduated with Good Grades"
+      }
+    ],
+    "work": [
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Competitive Coding",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "20%"
+      },
+      {
+        "name": "Cpp",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tinder for dog Lovers",
+        "category": "Only front-end of tindog (HTML, CSS, Bootstrap)",
+        "image": "tindog.png",
+        "url": "https://abhi4701.github.io/tindog/"
+      },
+      {
+        "title": "Drum-Kit",
+        "category": "How a website produce sound when keyboard button pressed(javaScript)",
+        "image": "Drumkit.png",
+        "url": "https://abhi4701.github.io/drumstick/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      }
+      
+    ]
+  }
+}
